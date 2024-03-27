@@ -6,9 +6,10 @@ I am a data analytics professional with experience across various sectors. Curre
 
 #### My GitHub Stats
 
-! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=akankshabajpai999)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akankshabajpai999) 
+![GitHubStats2](https://github-readme-streak-stats.herokuapp.com/?user=akankshabajpai999)
+# ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akankshabajpai999)
 
 <!--
 **akankshabajpai999/akankshabajpai999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
