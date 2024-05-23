@@ -2,7 +2,7 @@
 
 #### About Me
 
-I am a data analytics professional with experience across various sectors. Currently, I work as a Graduate Assistant and an Analytics Consultant, where I've enhanced manufacturing efficiency and aided in increasing cost savings for small businesses. My background includes roles as a Senior Analyst at Accenture, focusing on customer attrition reduction, and a Data Analyst at WNS Global Services, specializing in fraud detection and customer retention. Previously, I served as an Analyst & BI Developer at Tata Consultancy Services, optimizing operational efficiencies. I am pursuing a Master of Science in Business Analytics at the University of Cincinnati, holding certifications from MITx and Microsoft, and have a deep skill set in data analysis, statistical modeling, and machine learning.
+I am a passionate data science enthusiast, currently harnessing advanced analytics to enhance manufacturing efficiency and drive cost savings as a Graduate Assistant and Analytics Consultant. With a rich foundation in tackling complex challenges—from reducing customer attrition at Accenture to detecting fraud at WNS Global Services—I thrive on transforming data into actionable insights. At the core of my academic pursuit, I am advancing my expertise in Business Analytics at the University of Cincinnati, complemented by certifications from MITx and Microsoft. My journey is fueled by a relentless curiosity to uncover patterns, predict outcomes, and innovate within the vast landscape of data science and machine learning.
 
 #### My GitHub Stats
 
